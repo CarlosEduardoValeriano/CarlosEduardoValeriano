@@ -40,3 +40,10 @@ Meu nome é Carlos Eduardo e atualmente sou estudante.
 <hr>
 
 
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+
