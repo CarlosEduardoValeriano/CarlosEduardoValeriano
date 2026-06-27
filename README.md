@@ -1,15 +1,19 @@
-<h1 align="left">E aí 👋 Tudo bem?</h1>
+<h1 align="left">Olá! 👋 Eu sou Carlos Eduardo</h1>
 
 <p align="left">
-Meu nome é Carlos Eduardo e atualmente sou estudante.
+🎓 Estudante do Ensino Médio e desenvolvedor em formação.<br>
+💻 Apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias.<br>
+🚀 Atualmente focado em Java, Spring Boot, desenvolvimento Web e React Native com Expo.
 </p>
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">👨‍💻 Sobre mim</h2>
 
 <p align="left">
-✨ Criando bugs desde 2025<br>
-📚 Atualmente aprendendo programação<br>
-🎯 Objetivo: me tornar Engenheiro de Software
+☕ Estudando Java e Spring Boot<br>
+📱 Aprendendo React Native com Expo<br>
+🌐 Explorando HTML e CSS<br>
+🐧 Conhecendo o universo Linux e ferramentas de desenvolvimento<br>
+🎯 Objetivo: me tornar Engenheiro de Software e construir aplicações úteis para pessoas reais.
 </p>
 
 <div align="left">
@@ -35,16 +39,6 @@ Meu nome é Carlos Eduardo e atualmente sou estudante.
   <a href="https://www.linkedin.com/in/carlos-eduardo-9372413a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
- <a href="#">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-   </a>
-    <a href="#">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-   </a>
-    <a href="#">
-
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-   </a>
 </div>
 <hr>
 
