@@ -3,7 +3,7 @@
 <p align="left">
 🎓 Estudante do Ensino Médio e desenvolvedor em formação.<br>
 💻 Apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias.<br>
-🚀 Atualmente focado em Java, Spring Boot, desenvolvimento Web e React Native com Expo.
+🚀 Atualmente focado em Java, desenvolvimento Web e React Native com Expo.
 </p>
 
 <h2 align="left">👨‍💻 Sobre mim</h2>
